@@ -1,0 +1,14 @@
+package StreamsInterviewQuestions;
+
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Optional;
+
+public class SecondMaximumInAnArray {
+    public static void main(String[] args) {
+        List<Integer> list = Arrays.asList(10,7,2,4,5,6,8,9); // 2,4,5,6,7,8,9,10
+        Optional<Integer> max = list.stream().sorted(Comparator.reverseOrder()).skip(1).findFirst();
+        max.ifPresent(System.out::print);
+    }
+}

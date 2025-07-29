@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2782ba4f-0eaa-437a-aff5-56bd88cc8851" name="Changes" comment="Java Interview Problems">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonInterviewQuestions/ContainsVowelsOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonInterviewQuestions/ReverseAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonInterviewQuestions/Swap2Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Stack/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FI/FindDiffBetTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FI/FindStringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FI/MyIntrfImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FI/StringLengthFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FI/SumIntrf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FI/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewVideos/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewVideos/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewVideos/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExp/WithLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExp/WithoutLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultipleParameter/WithoutLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Munnu/FI/fiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Munnu/OverloadingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Munnu/OverridingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleParameter/WithLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleParameter/WithoutLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountVowelsUsingStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/EmpCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/FindDuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupByDept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ListContainsPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ListOfListAsSingleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MergeTwoStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/PrimeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SecondMaximumInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SecondMinimunInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/StartingWithOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/StartsWithA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SumOfAllNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/CountVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/FindMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/FirstNonRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/FirstNonRepeatingCharaterUsingMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/FirstNotRepeatedWithoutCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/OccouranceOfEachCharater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/RemoveAllSpecialCharaters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/RemoveAllWhiteSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/RemoveDuplicateCharaters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/ReverseEachWordInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/SortStringCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZeroParameter/WithLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZeroParameter/WithoutLE.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Riturajpandey9204/Java.git",
+    "accountId": "d7a2a392-6db5-401a-b183-12ab93091e02"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xDSYXO2uh9pjK6WqxxF6yws9PZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AvgOfAllNumbers.executor": "Run",
+    "Application.ContainsVowelsOrNot.executor": "Run",
+    "Application.CountVowels.executor": "Run",
+    "Application.CountVowelsUsingStreams.executor": "Run",
+    "Application.EmpCount.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.FindDiffBetTwoNumbers.executor": "Run",
+    "Application.FindDiffOfTwoClass.executor": "Run",
+    "Application.FindDuplicateElements.executor": "Run",
+    "Application.FindMissingNumber.executor": "Run",
+    "Application.FindStringLength.executor": "Run",
+    "Application.FirstNonRepeating.executor": "Run",
+    "Application.FirstNonRepeatingCharaterUsingMap.executor": "Run",
+    "Application.FirstNotRepeatedWithoutCollection.executor": "Run",
+    "Application.GroupByDept.executor": "Run",
+    "Application.LengthOfLastWord.executor": "Run",
+    "Application.ListOfListAsSingleList.executor": "Run",
+    "Application.MergeTwoSortedLists.executor": "Run",
+    "Application.MergeTwoStreams.executor": "Run",
+    "Application.MultipleParameter.WithLE.executor": "Run",
+    "Application.MyIntrfImpl.executor": "Run",
+    "Application.MyQueue.executor": "Run",
+    "Application.MyStack.executor": "Run",
+    "Application.OccouranceOfEachCharater.executor": "Run",
+    "Application.OverloadingExample.executor": "Run",
+    "Application.OverridingExample.executor": "Run",
+    "Application.PrimeCheck.executor": "Run",
+    "Application.RemoveAllSpecialCharaters.executor": "Run",
+    "Application.RemoveAllWhiteSpaces.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Run",
+    "Application.RemoveDuplicateCharaters.executor": "Run",
+    "Application.ReverseAString.executor": "Run",
+    "Application.ReverseEachWordInString.executor": "Run",
+    "Application.ReverseInteger.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SecondMaxInAnArray.executor": "Run",
+    "Application.SecondMaximumInAnArray.executor": "Run",
+    "Application.SecondMinInAnArray.executor": "Run",
+    "Application.SecondMinimunInAnArray.executor": "Run",
+    "Application.SortStringCharacters.executor": "Run",
+    "Application.StartingWithOne.executor": "Run",
+    "Application.StartsWithA.executor": "Run",
+    "Application.StringLengthFinder.executor": "Run",
+    "Application.SumOfAllNumbers.executor": "Run",
+    "Application.Swap2Numbers.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.WithLE (1).executor": "Run",
+    "Application.WithLE.executor": "Run",
+    "Application.WithoutLE.executor": "Run",
+    "Application.fiTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/CodeDecode/order",
+    "onboarding.tips.debug.path": "C:/Users/ritur/Desktop/Java8Features/Java8/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="StreamsInterviewQuestions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ListOfListAsSingleList">
+    <configuration name="AvgOfAllNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.AvgOfAllNumbers" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainsVowelsOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonInterviewQuestions.ContainsVowelsOrNot" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CommonInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDiffBetTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FI.FindDiffBetTwoNumbers" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOfListAsSingleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.ListOfListAsSingleList" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyIntrfImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FI.MyIntrfImpl" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListOfListAsSingleList" />
+        <item itemvalue="Application.AvgOfAllNumbers" />
+        <item itemvalue="Application.MyIntrfImpl" />
+        <item itemvalue="Application.FindDiffBetTwoNumbers" />
+        <item itemvalue="Application.ContainsVowelsOrNot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2782ba4f-0eaa-437a-aff5-56bd88cc8851" name="Changes" comment="" />
+      <created>1747471200235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747471200235</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Java Interview Problems">
+      <option name="closed" value="true" />
+      <created>1753769827899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753769827899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Interview Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Interview Problems" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringInterviewQuestions/FindMissingNumber.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringInterviewQuestions/FindMissingNumber.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
