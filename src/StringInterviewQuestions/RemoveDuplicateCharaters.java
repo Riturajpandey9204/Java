@@ -10,17 +10,16 @@ public class RemoveDuplicateCharaters {
 
         // Using java8 distinct method
         StringBuilder sb = new StringBuilder();
-        str.chars().distinct().forEach(c -> sb.append((char) c));
+        str.chars().distinct().forEach(c->sb.append((char) c));
         System.out.println(sb);
-        System.out.println();
         // Using set
         StringBuilder sb1 = new StringBuilder();
         Set<Character> set = new TreeSet<>();
-        for (int i = 0; i < str.length() ; i++) {
+        for (int i = 0; i < str.length(); i++) {
            set.add(str.charAt(i));
         }
-        for (Character c : set){
-            sb1.append(c);
+        for(Character ch : set){
+            sb1.append(ch);
         }
         System.out.println(sb1);
     }

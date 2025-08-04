@@ -38,13 +38,11 @@ public class FilterByCity {
                 new Student(3, "Aman", "Delhi"),
                 new Student(4, "Geeta", "Pune")
         );
+    Map<String,List<Student>> cityMap = students.stream().collect(Collectors.groupingBy(std -> std.getStdCity()));
 
-        String filterCity = "Delhi";
-
-        List<Student> delhiStudents = students.stream()
-                .filter(student -> student.getStdCity().equalsIgnoreCase(filterCity))
-                .collect(Collectors.toList());
-
-        delhiStudents.forEach(System.out::println);
+    cityMap.forEach((city,stdList) -> {
+        System.out.println("City :" + city);
+        stdList.forEach(System.out::println);
+    });
     }
 }

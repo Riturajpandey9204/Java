@@ -5,11 +5,9 @@ import java.util.List;
 
 public class PrimeCheck {
     public static void main(String[] args) {
-        List<Integer> arr = Arrays.asList(1, 3,6,45,34,6);
-        /*boolean containsPrime = arr.stream().anyMatch(PrimeCheck::isPrime);
-        System.out.println(containsPrime);*/
-        // Print all prime
-        arr.stream().filter(PrimeCheck::isPrime).forEach(System.out::println);
+        List<Integer> arr = Arrays.asList(1,3,7,5, 6,45,34,6);
+        System.out.println(arr.stream().anyMatch(PrimeCheck ::isPrime));
+        arr.stream().filter(PrimeCheck :: isPrime).forEach(System.out::println);
     }
     public static boolean isPrime(int n){
         if(n <= 1){

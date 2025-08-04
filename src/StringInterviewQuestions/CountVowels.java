@@ -32,6 +32,8 @@ public class CountVowels {
         };
         String str2 = "Ritu Raj Pandey";
         long count = str2.chars().filter(vowels).count();
-        System.out.println(count);
+        if (count>1){
+            System.out.println("Vowels Present : " + count);
+        }
     }
 }
