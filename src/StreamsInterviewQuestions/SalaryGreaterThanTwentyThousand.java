@@ -1,12 +1,11 @@
 package StreamsInterviewQuestions;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class EmpCount {
+public class SalaryGreaterThanTwentyThousand {
     public static void main(String[] args) {
         List<Employee> employeeList = Arrays.asList(
                 new Employee(101,"Amit", 50000.00, "IT"),
@@ -14,15 +13,9 @@ public class EmpCount {
                 new Employee(103,"Rohan", 60000.00, "IT"),
                 new Employee(104,"Sohan", 70000.00, "HR")
         );
-        Long count = employeeList.stream().count();
-        System.out.println("There are total " + count + " employees.");
+        List<Employee> salList = employeeList.stream().filter(x->x.geteSalary()>50000).peek(x->x.seteSalary(x.geteSalary()+ 20000))
+                .collect(Collectors.toList());
+        System.out.println(salList);
 
-        // Avg salary based on department
-
-        Map<String, Double> map = employeeList
-                .stream()
-                .collect(Collectors.groupingBy(Employee::geteDeptName, Collectors.averagingDouble(Employee::geteSalary)));
-
-        System.out.println(map);
     }
 }

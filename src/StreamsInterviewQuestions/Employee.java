@@ -43,11 +43,20 @@ public class Employee {
                 ", eDeptName='" + eDeptName + '\'' +
                 '}';
     }
-    /*List<Employee> employeeList = Arrays.asList(
-            new Employee(101,"Amit", 50000.00, "IT"),
-            new Employee(102,"Rahul", 55000.00, "Finance"),
-            new Employee(103,"Rohan", 60000.00, "IT"),
-            new Employee(104,"Sohan", 70000.00, "HR")
 
-    );*/
+    public void seteId(int eId) {
+        this.eId = eId;
+    }
+
+    public void seteName(String eName) {
+        this.eName = eName;
+    }
+
+    public void seteSalary(double eSalary) {
+        this.eSalary = eSalary;
+    }
+
+    public void seteDeptName(String eDeptName) {
+        this.eDeptName = eDeptName;
+    }
 }
