@@ -4,37 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2782ba4f-0eaa-437a-aff5-56bd88cc8851" name="Changes" comment="Java Interview Problems">
-      <change afterPath="$PROJECT_DIR$/src/Interview/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/FetchEmployees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ArrangeDoctorsBasedOnFirstAndLastName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CharacterWithMaxFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CommonlyUsermethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConcatTwoStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConvertListToMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConvertLoSToMapOfStringAndItsLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConvertToUpperCaseAndConcatenate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/DepartmentWiseAverageSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/DepartmentWithMaximumTeachers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/DistinctNumberStartingWithOneInDescOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/Doctors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/FlatmapAndMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupByFirstCharacterAndCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ImplementFilterRecuctionAverageMinInAProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MultiplyArrayOfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/PrintMiddleCharacterOfAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ReorderMsgFromFormatInCronologicalOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ReuseStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SalaryGreaterThanTwentyThousand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/Teachers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/TransformOneObjectToAnother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/TransformPersonObjectToSingleString.java" afterDir="false" />
+    <list default="true" id="2782ba4f-0eaa-437a-aff5-56bd88cc8851" name="Changes" comment="ImportantOnes">
+      <change afterPath="$PROJECT_DIR$/src/Interview/DemoComparableAndComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java11NewFeatures/FileMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java11NewFeatures/IsEmptyAndIsBlankDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/EmpCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/EmpCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CharacterWithMaxFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CharacterWithMaxFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConvertListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConvertListToMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountVowelsUsingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountVowelsUsingStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/PairAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/PairAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/StringsWithOnlyDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/StringsWithOnlyDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +68,7 @@
     "Application.CountSubString.executor": "Run",
     "Application.CountVowels.executor": "Run",
     "Application.CountVowelsUsingStreams.executor": "Run",
+    "Application.DemoComparableAndComparator.executor": "Run",
     "Application.DepartmentWiseAverageSalary.executor": "Run",
     "Application.DepartmentWithMaximumTeachers.executor": "Run",
     "Application.DistinctNumberStartingWithOneInDescOrder.executor": "Run",
@@ -114,6 +95,7 @@
     "Application.GroupingOnMiddleCharacter.executor": "Run",
     "Application.HighestLengthWord.executor": "Run",
     "Application.IntersectionOfTwoLists.executor": "Run",
+    "Application.IsEmptyAndIsBlankDemo.executor": "Run",
     "Application.LengthOfLastWord.executor": "Run",
     "Application.ListOfListAsSingleList.executor": "Run",
     "Application.ListWithOnlyIntegers.executor": "Run",
@@ -184,48 +166,9 @@
       <recent name="StreamsInterviewQuestions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertLoSToMapOfStringAndItsLength">
-    <configuration name="CharacterWithMaxFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.CharacterWithMaxFrequency" />
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertLoSToMapOfStringAndItsLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.ConvertLoSToMapOfStringAndItsLength" />
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.CountSubString" />
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DepartmentWiseAverageSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.DepartmentWiseAverageSalary" />
+  <component name="RunManager" selected="Application.IsEmptyAndIsBlankDemo">
+    <configuration name="CountVowelsUsingStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.CountVowelsUsingStreams" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
@@ -250,13 +193,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DistinctValuesOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.DistinctValuesOrNot" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivideIntoEvenAndOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.DivideIntoEvenAndOdd" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsEmptyAndIsBlankDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java11NewFeatures.IsEmptyAndIsBlankDemo" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java11NewFeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConvertLoSToMapOfStringAndItsLength" />
-        <item itemvalue="Application.CharacterWithMaxFrequency" />
-        <item itemvalue="Application.DepartmentWiseAverageSalary" />
+        <item itemvalue="Application.IsEmptyAndIsBlankDemo" />
+        <item itemvalue="Application.DivideIntoEvenAndOdd" />
+        <item itemvalue="Application.DistinctValuesOrNot" />
         <item itemvalue="Application.DepartmentWithMaximumTeachers" />
-        <item itemvalue="Application.CountSubString" />
+        <item itemvalue="Application.CountVowelsUsingStreams" />
       </list>
     </recent_temporary>
   </component>
@@ -301,12 +283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754276800731</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ImportantOnes">
+      <option name="closed" value="true" />
+      <created>1754448019050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754448019050</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Interview Problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Interview Problems" />
+    <MESSAGE value="ImportantOnes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ImportantOnes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

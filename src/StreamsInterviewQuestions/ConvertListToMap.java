@@ -2,6 +2,7 @@ package StreamsInterviewQuestions;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class ConvertListToMap {
@@ -14,6 +15,8 @@ public class ConvertListToMap {
                 new Person("Saloni", "Banglore", 29),
                 new Person("Rajesh", "Kolkata",35)
         );
-        personList.stream().collect(Collectors.groupingBy(Person::getCity)).forEach((k,v)-> System.out.println(k + " " + v));
+        Map<String, List<Person>> map = personList.stream()
+                .collect(Collectors.groupingBy(Person::getCity));
+        map.entrySet().stream().forEach(System.out::println);
     }
 }

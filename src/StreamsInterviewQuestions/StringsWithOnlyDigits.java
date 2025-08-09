@@ -10,5 +10,6 @@ public class StringsWithOnlyDigits {
         List<String> ansList = list.stream().filter(x->x.matches("\\d+")).collect(Collectors.toList());
         System.out.println(ansList);
         // Can also use ("[0-9]+") or ("\\d+")
+        //input.matches("[a-zA-Z]") // to check whether a given input character is an alphabet (A–Z or a–z)
     }
 }
