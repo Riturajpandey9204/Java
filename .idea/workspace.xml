@@ -4,17 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2782ba4f-0eaa-437a-aff5-56bd88cc8851" name="Changes" comment="ImportantOnes">
-      <change afterPath="$PROJECT_DIR$/src/Interview/DemoComparableAndComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java11NewFeatures/FileMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java11NewFeatures/IsEmptyAndIsBlankDemo.java" afterDir="false" />
+    <list default="true" id="2782ba4f-0eaa-437a-aff5-56bd88cc8851" name="Changes" comment="Tried Again">
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/AndroidDevFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/AndroidDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/EmployeeAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ManagerDevFac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/WebDevFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/WebDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/AndroidDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/WebDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton/Jalebi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton/Samosa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/LSP/BadCode/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/LSP/BadCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/LSP/BadCode/ReadOnlyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/LSP/GoodCode/ReadOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/LSP/GoodCode/ReadableFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/LSP/GoodCode/WriteOnly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CharacterWithMaxFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CharacterWithMaxFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConvertListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConvertListToMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountSubString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountVowelsUsingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountVowelsUsingStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/PairAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/PairAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/StringsWithOnlyDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/StringsWithOnlyDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +88,10 @@
     "Application.DemoComparableAndComparator.executor": "Run",
     "Application.DepartmentWiseAverageSalary.executor": "Run",
     "Application.DepartmentWithMaximumTeachers.executor": "Run",
+    "Application.DesignPattern.AbstractFactory.Main.executor": "Debug",
+    "Application.DesignPattern.Builder.Main.executor": "Run",
+    "Application.DesignPattern.Factory.Main.executor": "Run",
+    "Application.DesignPattern.Main.executor": "Run",
     "Application.DistinctNumberStartingWithOneInDescOrder.executor": "Run",
     "Application.DistinctValuesOrNot.executor": "Run",
     "Application.DivideIntoEvenAndOdd.executor": "Run",
@@ -99,6 +120,7 @@
     "Application.LengthOfLastWord.executor": "Run",
     "Application.ListOfListAsSingleList.executor": "Run",
     "Application.ListWithOnlyIntegers.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MergeTwoSortedLists.executor": "Run",
     "Application.MergeTwoStreams.executor": "Run",
     "Application.MoveZerosToBegining.executor": "Run",
@@ -119,6 +141,7 @@
     "Application.PrimeCheck.executor": "Run",
     "Application.PrintMiddleCharacterOfAString.executor": "Run",
     "Application.ProductOfFirstTwoElement.executor": "Run",
+    "Application.ReadableFile.executor": "Run",
     "Application.RemoveAllNonIntegers.executor": "Run",
     "Application.RemoveAllSpecialCharaters.executor": "Run",
     "Application.RemoveAllWhiteSpaces.executor": "Run",
@@ -166,13 +189,13 @@
       <recent name="StreamsInterviewQuestions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IsEmptyAndIsBlankDemo">
-    <configuration name="CountVowelsUsingStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.CountVowelsUsingStreams" />
+  <component name="RunManager" selected="Application.DesignPattern.Builder.Main">
+    <configuration name="DesignPattern.AbstractFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.AbstractFactory.Main" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
+          <option name="PATTERN" value="DesignPattern.AbstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DepartmentWithMaximumTeachers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.DepartmentWithMaximumTeachers" />
+    <configuration name="DesignPattern.Builder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.Builder.Main" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
+          <option name="PATTERN" value="DesignPattern.Builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistinctValuesOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.DistinctValuesOrNot" />
+    <configuration name="DesignPattern.Factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.Factory.Main" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
+          <option name="PATTERN" value="DesignPattern.Factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivideIntoEvenAndOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.DivideIntoEvenAndOdd" />
+    <configuration name="DesignPattern.Singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.Singleton.Main" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
+          <option name="PATTERN" value="DesignPattern.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsEmptyAndIsBlankDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java11NewFeatures.IsEmptyAndIsBlankDemo" />
+    <configuration name="ReadableFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SolidPrinciples.LSP.GoodCode.ReadableFile" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java11NewFeatures.*" />
+          <option name="PATTERN" value="SolidPrinciples.LSP.GoodCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsEmptyAndIsBlankDemo" />
-        <item itemvalue="Application.DivideIntoEvenAndOdd" />
-        <item itemvalue="Application.DistinctValuesOrNot" />
-        <item itemvalue="Application.DepartmentWithMaximumTeachers" />
-        <item itemvalue="Application.CountVowelsUsingStreams" />
+        <item itemvalue="Application.DesignPattern.Builder.Main" />
+        <item itemvalue="Application.DesignPattern.AbstractFactory.Main" />
+        <item itemvalue="Application.DesignPattern.Factory.Main" />
+        <item itemvalue="Application.DesignPattern.Singleton.Main" />
+        <item itemvalue="Application.ReadableFile" />
       </list>
     </recent_temporary>
   </component>
@@ -291,13 +314,22 @@
       <option name="project" value="LOCAL" />
       <updated>1754448019050</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Tried Again">
+      <option name="closed" value="true" />
+      <created>1754755283135</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754755283135</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Interview Problems" />
     <MESSAGE value="ImportantOnes" />
-    <option name="LAST_COMMIT_MESSAGE" value="ImportantOnes" />
+    <MESSAGE value="Tried Again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tried Again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
