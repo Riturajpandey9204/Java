@@ -15,8 +15,8 @@ public class ArrangeDoctorsBasedOnFirstAndLastName {
                 new Doctors("Adam", "Rich"),
                 new Doctors("Adam", "Smith")
         );
-        doctorsList.stream().sorted(Comparator.comparing(Doctors::getFirstName)
-                .thenComparing(Doctors::getLastName))
+        doctorsList.stream()
+                .sorted(Comparator.comparing(Doctors::getFirstName).thenComparing(Doctors::getLastName))
                 .collect(Collectors.toList())
                 .forEach(System.out::println);
     }

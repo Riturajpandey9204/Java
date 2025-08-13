@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2782ba4f-0eaa-437a-aff5-56bd88cc8851" name="Changes" comment="Design Pattern">
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Prototype/NetworkConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Observer/YouTubeChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CompareTwoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ArrangeDoctorsBasedOnFirstAndLastName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ArrangeDoctorsBasedOnFirstAndLastName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringInterviewQuestions/RemoveDuplicateCharaters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/RemoveDuplicateCharaters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,132 +50,134 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AnagramChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrangeDoctorsBasedOnFirstAndLastName.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AvgOfAllNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharacterWithMaxFrequency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainsVowelsOrNot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertListToMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertLoSToMapOfStringAndItsLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertNumbersToSquares.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertToUpperCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertToUpperCaseAndConcatenate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountSubString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountVowels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountVowelsUsingStreams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoComparableAndComparator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DepartmentWiseAverageSalary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DepartmentWithMaximumTeachers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesignPattern.AbstractFactory.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DesignPattern.Builder.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesignPattern.Factory.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesignPattern.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DistinctNumberStartingWithOneInDescOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DistinctValuesOrNot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DivideIntoEvenAndOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmpCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FetchEmployees.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FilterByCity.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindDiffBetTwoNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindDiffOfTwoClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindDuplicateElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindStringLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeatedCharater.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeating.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeatingCharaterUsingMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNotRepeatedWithoutCollection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstRepeatedCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroupByDept.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroupByFirstCharacterAndCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroupNumbersByRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroupingOnMiddleCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HighestLengthWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntersectionOfTwoLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsEmptyAndIsBlankDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LengthOfLastWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListOfListAsSingleList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListWithOnlyIntegers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoSortedLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoStreams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZerosToBegining.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultipleParameter.WithLE.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplyAlternateNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplyArrayOfIntegers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplyFirstLastAnsSoOn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyIntrfImpl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyQueue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OccouranceOfDomain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OccouranceOfEachCharater.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OccuranceOfEachCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OccuranceOfEachWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OverloadingExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OverridingExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PairAnagrams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintMiddleCharacterOfAString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOfFirstTwoElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadableFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveAllNonIntegers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveAllSpecialCharaters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveAllWhiteSpaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicateCharaters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReuseStreams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseAString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseEachWordInString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SalaryGreaterThanTwentyThousand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondMaxInAnArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondMaximumInAnArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondMinInAnArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondMinimunInAnArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortInAsceOrDesc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortListOfStringInAlphabeticOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortStringCharacters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StartingWithOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StartsWithA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringLengthFinder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringsWithOnlyDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfAllElementsInAList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfAllNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfUniqueElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap2Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WithLE (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.WithLE.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WithoutLE.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WordWithSpecifiedNumberOfVowels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fiTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CodeDecode/order&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ritur/Desktop/Java8Features/Java8/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnagramChecker.executor": "Run",
+    "Application.ArrangeDoctorsBasedOnFirstAndLastName.executor": "Run",
+    "Application.AvgOfAllNumbers.executor": "Run",
+    "Application.CharacterWithMaxFrequency.executor": "Run",
+    "Application.CompareTwoArrays.executor": "Run",
+    "Application.ContainsVowelsOrNot.executor": "Run",
+    "Application.ConvertListToMap.executor": "Run",
+    "Application.ConvertLoSToMapOfStringAndItsLength.executor": "Run",
+    "Application.ConvertNumbersToSquares.executor": "Run",
+    "Application.ConvertToUpperCase.executor": "Run",
+    "Application.ConvertToUpperCaseAndConcatenate.executor": "Run",
+    "Application.CountSubString.executor": "Run",
+    "Application.CountVowels.executor": "Run",
+    "Application.CountVowelsUsingStreams.executor": "Run",
+    "Application.DemoComparableAndComparator.executor": "Run",
+    "Application.DepartmentWiseAverageSalary.executor": "Run",
+    "Application.DepartmentWithMaximumTeachers.executor": "Run",
+    "Application.DesignPattern.AbstractFactory.Main.executor": "Debug",
+    "Application.DesignPattern.Builder.Main.executor": "Run",
+    "Application.DesignPattern.Factory.Main.executor": "Run",
+    "Application.DesignPattern.Main.executor": "Run",
+    "Application.DistinctNumberStartingWithOneInDescOrder.executor": "Run",
+    "Application.DistinctValuesOrNot.executor": "Run",
+    "Application.DivideIntoEvenAndOdd.executor": "Run",
+    "Application.EmpCount.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.FetchEmployees.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FilterByCity.executor": "Run",
+    "Application.FindDiffBetTwoNumbers.executor": "Run",
+    "Application.FindDiffOfTwoClass.executor": "Run",
+    "Application.FindDuplicateElements.executor": "Run",
+    "Application.FindMissingNumber.executor": "Run",
+    "Application.FindStringLength.executor": "Run",
+    "Application.FirstNonRepeatedCharater.executor": "Run",
+    "Application.FirstNonRepeating.executor": "Run",
+    "Application.FirstNonRepeatingCharaterUsingMap.executor": "Run",
+    "Application.FirstNotRepeatedWithoutCollection.executor": "Run",
+    "Application.FirstRepeatedCharacter.executor": "Run",
+    "Application.GroupByDept.executor": "Run",
+    "Application.GroupByFirstCharacterAndCount.executor": "Run",
+    "Application.GroupNumbersByRange.executor": "Run",
+    "Application.GroupingOnMiddleCharacter.executor": "Run",
+    "Application.HighestLengthWord.executor": "Run",
+    "Application.IntersectionOfTwoLists.executor": "Run",
+    "Application.IsEmptyAndIsBlankDemo.executor": "Run",
+    "Application.LengthOfLastWord.executor": "Run",
+    "Application.ListOfListAsSingleList.executor": "Run",
+    "Application.ListWithOnlyIntegers.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MergeTwoSortedLists.executor": "Run",
+    "Application.MergeTwoStreams.executor": "Run",
+    "Application.MoveZerosToBegining.executor": "Run",
+    "Application.MultipleParameter.WithLE.executor": "Run",
+    "Application.MultiplyAlternateNumbers.executor": "Run",
+    "Application.MultiplyArrayOfIntegers.executor": "Run",
+    "Application.MultiplyFirstLastAnsSoOn.executor": "Run",
+    "Application.MyIntrfImpl.executor": "Run",
+    "Application.MyQueue.executor": "Run",
+    "Application.MyStack.executor": "Run",
+    "Application.OccouranceOfDomain.executor": "Run",
+    "Application.OccouranceOfEachCharater.executor": "Run",
+    "Application.OccuranceOfEachCharacter.executor": "Run",
+    "Application.OccuranceOfEachWord.executor": "Run",
+    "Application.OverloadingExample.executor": "Run",
+    "Application.OverridingExample.executor": "Run",
+    "Application.PairAnagrams.executor": "Run",
+    "Application.PrimeCheck.executor": "Run",
+    "Application.PrintMiddleCharacterOfAString.executor": "Run",
+    "Application.ProductOfFirstTwoElement.executor": "Run",
+    "Application.ReadableFile.executor": "Run",
+    "Application.RemoveAllNonIntegers.executor": "Run",
+    "Application.RemoveAllSpecialCharaters.executor": "Run",
+    "Application.RemoveAllWhiteSpaces.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Run",
+    "Application.RemoveDuplicateCharaters.executor": "Run",
+    "Application.ReuseStreams.executor": "Run",
+    "Application.ReverseAString.executor": "Run",
+    "Application.ReverseEachWordInString.executor": "Run",
+    "Application.ReverseInteger.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SalaryGreaterThanTwentyThousand.executor": "Run",
+    "Application.SecondMaxInAnArray.executor": "Run",
+    "Application.SecondMaximumInAnArray.executor": "Run",
+    "Application.SecondMinInAnArray.executor": "Run",
+    "Application.SecondMinimunInAnArray.executor": "Run",
+    "Application.SolidPrinciples.LSP.BadCode.Main.executor": "Run",
+    "Application.SortInAsceOrDesc.executor": "Run",
+    "Application.SortListOfStringInAlphabeticOrder.executor": "Run",
+    "Application.SortStringCharacters.executor": "Run",
+    "Application.StartingWithOne.executor": "Run",
+    "Application.StartsWithA.executor": "Run",
+    "Application.StringLengthFinder.executor": "Run",
+    "Application.StringsWithOnlyDigits.executor": "Run",
+    "Application.SumOfAllElementsInAList.executor": "Run",
+    "Application.SumOfAllNumbers.executor": "Run",
+    "Application.SumOfUniqueElements.executor": "Run",
+    "Application.Swap2Numbers.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.WithLE (1).executor": "Run",
+    "Application.WithLE.executor": "Run",
+    "Application.WithoutLE.executor": "Run",
+    "Application.WordWithSpecifiedNumberOfVowels.executor": "Run",
+    "Application.fiTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/CodeDecode/order",
+    "onboarding.tips.debug.path": "C:/Users/ritur/Desktop/Java8Features/Java8/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="StreamsInterviewQuestions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DesignPattern.AbstractFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.AbstractFactory.Main" />
+  <component name="RunManager" selected="Application.ConvertToUpperCaseAndConcatenate">
+    <configuration name="CompareTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.CompareTwoArrays" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPattern.AbstractFactory.*" />
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,38 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesignPattern.Builder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.Builder.Main" />
+    <configuration name="ConvertToUpperCaseAndConcatenate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.ConvertToUpperCaseAndConcatenate" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPattern.Builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DesignPattern.Factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.Factory.Main" />
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DesignPattern.Factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DesignPattern.Singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.Singleton.Main" />
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DesignPattern.Singleton.*" />
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,13 +211,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveDuplicateCharaters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringInterviewQuestions.RemoveDuplicateCharaters" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolidPrinciples.LSP.BadCode.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SolidPrinciples.LSP.BadCode.Main" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SolidPrinciples.LSP.BadCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertToUpperCaseAndConcatenate" />
+        <item itemvalue="Application.CompareTwoArrays" />
+        <item itemvalue="Application.RemoveDuplicateCharaters" />
+        <item itemvalue="Application.SolidPrinciples.LSP.BadCode.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DesignPattern.Builder.Main" />
-        <item itemvalue="Application.DesignPattern.AbstractFactory.Main" />
-        <item itemvalue="Application.DesignPattern.Factory.Main" />
-        <item itemvalue="Application.DesignPattern.Singleton.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754877296672</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Design Pattern">
+      <option name="closed" value="true" />
+      <created>1754887332776</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754887332776</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -323,6 +337,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StreamsInterviewQuestions/ConvertToUpperCaseAndConcatenate.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
