@@ -1,7 +1,5 @@
 package CommonInterviewQuestions;
 
-import static sun.text.normalizer.UTF16.append;
-
 public class ReverseAString {
     public static void main(String[] args) {
         String str = "Rituraj";

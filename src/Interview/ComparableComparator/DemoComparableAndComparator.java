@@ -1,4 +1,4 @@
-package Interview;
+package Interview.ComparableComparator;
 
 import java.util.*;
 

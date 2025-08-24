@@ -18,6 +18,7 @@ public class MoveZerosToBegining {
         finalArray.forEach(System.out::print);
         System.out.println();
 
+
         // Approach 2
          List<Integer> ans = list.stream()
                 .collect(Collectors.partitioningBy(x->x!=0)).values().stream()

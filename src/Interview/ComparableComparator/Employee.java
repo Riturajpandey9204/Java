@@ -1,4 +1,4 @@
-package Interview;
+package Interview.ComparableComparator;
 
 public class Employee {
     int eId;

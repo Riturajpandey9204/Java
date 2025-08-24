@@ -9,8 +9,9 @@ public class RemoveDuplicate {
         List<String> list = Arrays.asList("apple", "banana", "apple", "guava");
         // RemoveDuplicate and preserve insertion order from a list
         list.stream().distinct().forEach(System.out::println);
-        // Remove Duplicates from a list
+        // Remove Duplicates from a String
         String str = "asdasdjfkljaf";
         str.chars().distinct().mapToObj(x -> (char)x).forEach(System.out::print);
+
     }
 }

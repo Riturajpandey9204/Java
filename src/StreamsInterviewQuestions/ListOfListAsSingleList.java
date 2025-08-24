@@ -10,9 +10,13 @@ public class ListOfListAsSingleList {
                 Arrays.asList("Ravi" , "Rohan" , "Shyam"),
                 Arrays.asList("Manish", "Ritu", "Raj", "Sourav")
         );
-        List<String> result = listOfList.stream().flatMap(sl -> sl.stream()).collect(Collectors.toList());
+
+        List<String> result = listOfList.stream()
+                .flatMap(x->x.stream()).collect(Collectors.toList());
         System.out.println(result);
+
         List<String> startingWithS = result.stream().filter(val -> val.startsWith("S")).collect(Collectors.toList());
         System.out.println("startingWithS : " + startingWithS);
+
     }
 }

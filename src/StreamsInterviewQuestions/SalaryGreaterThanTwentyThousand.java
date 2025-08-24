@@ -16,6 +16,5 @@ public class SalaryGreaterThanTwentyThousand {
         List<Employee> salList = employeeList.stream().filter(x->x.geteSalary()>50000).peek(x->x.seteSalary(x.geteSalary()+ 20000))
                 .collect(Collectors.toList());
         System.out.println(salList);
-
     }
 }

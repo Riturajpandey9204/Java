@@ -8,5 +8,6 @@ public class MultiplyFirstLastAnsSoOn {
         IntStream.range(0, arr.length/2)
                 .map(x->arr[x]*arr[arr.length-x-1])
                 .forEach(System.out::println);
+
     }
 }

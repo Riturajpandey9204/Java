@@ -13,6 +13,5 @@ public class RemoveAllNonIntegers {
                 .map(x->pattern.matcher(x).replaceAll(""))
                 .collect(Collectors.toList());
         System.out.println(ans);
-
     }
 }

@@ -1,7 +1,5 @@
 package StreamsInterviewQuestions;
 
-import jdk.nashorn.internal.objects.annotations.Function;
-
 import java.util.Arrays;
 import java.util.List;
 

@@ -11,5 +11,7 @@ public class SumOfAllNumbers {
         // Sum of all the numbers
 
         System.out.println("Sum : "+list.stream().reduce(Integer::sum).get());
+        int[] arr = {11,22,3,4,5,6,6,77,8};
+        System.out.println(Arrays.stream(arr).sum());
     }
 }

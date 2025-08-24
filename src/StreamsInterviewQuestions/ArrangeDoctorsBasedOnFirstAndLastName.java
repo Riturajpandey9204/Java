@@ -19,5 +19,6 @@ public class ArrangeDoctorsBasedOnFirstAndLastName {
                 .sorted(Comparator.comparing(Doctors::getFirstName).thenComparing(Doctors::getLastName))
                 .collect(Collectors.toList())
                 .forEach(System.out::println);
+
     }
 }

@@ -15,6 +15,7 @@ public class FindDuplicateElements {
                 .filter( ele -> !uniqueElements.add(ele))
                 .distinct().collect(Collectors.toList());
         System.out.println(duplicateElements);
+
     }
 
     // Using 2 for loops - worst soln

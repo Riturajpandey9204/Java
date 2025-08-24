@@ -10,5 +10,6 @@ public class MultiplyArrayOfIntegers {
         List<Integer> integerList = Arrays.asList(arr);
         Optional<Integer> prod = integerList.stream().reduce((a, b)->a*b);
         System.out.println(prod.get());
+
     }
 }

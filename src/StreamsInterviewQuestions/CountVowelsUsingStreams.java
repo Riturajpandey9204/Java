@@ -5,16 +5,16 @@ import java.util.function.IntPredicate;
 public class CountVowelsUsingStreams {
     public static void main(String[] args) {
         // Using Java 8 Streams
-        String str2 = "Ritu Raj Pandey";
-
-       IntPredicate vowels = new IntPredicate() {
-           @Override
-           public boolean test(int t) {
-               return t == 'a' || t == 'e' ||t == 'i' ||t == 'o' ||t == 'u' ||
-                       t == 'A' ||t == 'E' ||t == 'I' ||t == 'O' ||t == 'U';
-           }
-       };
-       long count = str2.chars().filter(vowels).count();
+        String str2 = "Ragni";
+        IntPredicate vowels = new IntPredicate() {
+            @Override
+            public boolean test(int value) {
+                return value == 'a' || value == 'e' ||value == 'i' ||value == 'o' ||
+                        value == 'u' ||value == 'A' ||value == 'E' ||value == 'I' ||
+                        value == 'O' ||value == 'U';
+            }
+        };
+        Long count = str2.chars().filter(vowels).count();
         System.out.println(count);
     }
 }
