@@ -23,17 +23,17 @@ public class CountVowels {
 
         // Using Java 8 Streams
         System.out.println("Using Java 8 Streams");
+
+        String str2 = "Ritu Raj Pandey";
         IntPredicate vowels = new IntPredicate() {
             @Override
             public boolean test(int t) {
-                return t == 'a' || t == 'e' ||t == 'i' ||t == 'o' ||t == 'u' ||
-                        t == 'A' ||t == 'E' ||t == 'I' ||t == 'O' ||t == 'U';
+                return t == 'a'||t == 'e'||t == 'i'||t == 'o'||t == 'u'||t == 'A'||
+                        t == 'E'||t == 'I'||t == 'O'||t == 'U';
             }
         };
-        String str2 = "Ritu Raj Pandey";
-        long count = str2.chars().filter(vowels).count();
-        if (count>1){
-            System.out.println("Vowels Present : " + count);
-        }
+        Long count = str2.chars().filter(vowels).count();
+        System.out.println("Just now : "+count);
+
     }
 }

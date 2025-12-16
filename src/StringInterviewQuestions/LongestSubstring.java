@@ -4,10 +4,12 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class LongestSubstring {
+
     public static void main(String[] args) {
         String s = "abcabcbb";
         System.out.println(lengthOfLongestSubstring(s));
     }
+
     private static int lengthOfLongestSubstring(String s) {
         Set<Character> set = new HashSet<>();
         int left = 0, maxLength = 0;

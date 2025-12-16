@@ -11,10 +11,11 @@ public class StartsWithA {
                 new Employee(102,"Rahul", 55000.00, "Finance"),
                 new Employee(103,"Rohan", 60000.00, "IT"),
                 new Employee(104,"Sohan", 70000.00, "HR")
-
         );
         List<Employee> filteredEmployees =
-                employeeList.stream().filter(emp -> emp.geteName().startsWith("R")).collect(Collectors.toList());
+                employeeList.stream()
+                        .filter(emp -> emp.geteName()
+                                .startsWith("R")).collect(Collectors.toList());
 
         filteredEmployees.forEach(System.out :: println);
     }

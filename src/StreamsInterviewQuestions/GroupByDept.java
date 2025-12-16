@@ -14,9 +14,19 @@ public class GroupByDept {
                 new Employee(104,"Sohan", 70000.00, "HR")
 
         );
-        Map<String, List<Employee>> deptMap =
-                employeeList.stream().collect(Collectors.groupingBy(Employee::geteDeptName));
+//        Map<String, List<Employee>> deptMap = employeeList.stream()
+//                .collect(Collectors.groupingBy(Employee::geteDeptName));
+//
+//        deptMap.forEach((dept,empList) -> {
+//            System.out.println("Department : " + dept);
+//            empList.forEach(System.out::println);
+//        });
+        Map<String, List<Employee>> deptMap = employeeList.stream()
+                .collect(Collectors.groupingBy(Employee::geteDeptName));
+        deptMap.forEach((dept,empList) -> {
+            System.out.println("Department : " + dept);
+            empList.forEach(System.out::println);
+        });
 
-        deptMap.forEach((dept,empList) -> {System.out.println("Department : " + dept);empList.forEach(System.out::println);});
     }
 }

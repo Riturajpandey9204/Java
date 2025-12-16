@@ -19,7 +19,7 @@ public class CountConsonantsUsingStreams {
                 return Character.isLetter(t) && !vowels.test(t);
             }
         };
-        long count = str2.chars().filter(consonants).count();
+        long count = str2.chars().filter(vowels).count();
         System.out.println(count);
     }
 }

@@ -4,67 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2782ba4f-0eaa-437a-aff5-56bd88cc8851" name="Changes" comment="Design Pattern">
-      <change afterPath="$PROJECT_DIR$/src/DSA/HashTable/ContainsDuplicate_217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/HashTable/LongestConsecutiveElementsSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/HashTable/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/HashTable/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/HashTable/ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Immutable/ImmutableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Immutable/OutImmutableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Serialization/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Serialization/SerializeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Serialization/abc.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/record/Alien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/record/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/sealed/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/sealed/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/sealed/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/sealed/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/sealed/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Runnable/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Runnable/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Thread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Thread/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountConsonantsUsingStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MostRepeatedWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/LongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/ReturnLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Wissen/DeliveryRouteOptimization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Wissen/WaveArrangement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2782ba4f-0eaa-437a-aff5-56bd88cc8851" name="Changes" comment="Testing">
+      <change afterPath="$PROJECT_DIR$/src/DSA/Array/MergeIntervals_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/HashTable/GroupAnagrams_49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Recursion/Fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/StackAndQueue/MyDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/StackAndQueue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/StackAndQueue/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Strings/LongestPalindromicSubstring_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview/ComparableComparator/Geeks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview/ComparableComparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java17/record/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java17/record/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolidPrinciples/EYoutput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CommonInterviewQuestions/ReverseAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CommonInterviewQuestions/ReverseAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interview/DemoComparableAndComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview/ComparableComparator/DemoComparableAndComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interview/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview/ComparableComparator/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interview/FetchEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview/ComparableComparator/FetchEmployees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewVideos/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewVideos/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ArrangeDoctorsBasedOnFirstAndLastName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ArrangeDoctorsBasedOnFirstAndLastName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/AvgOfAllNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/AvgOfAllNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/Stack/MyQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/Stack/MyStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Prototype/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Prototype/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview/ComparableComparator/FetchEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview/ComparableComparator/FetchEmployees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewVideos/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewVideos/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CharacterWithMaxFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CharacterWithMaxFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConcatTwoStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ConcatTwoStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountConsonantsUsingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountConsonantsUsingStreams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountSubString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountVowelsUsingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/CountVowelsUsingStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/DistinctNumberStartingWithOneInDescOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/DistinctNumberStartingWithOneInDescOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/FindDuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/FindDuplicateElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/FirstNonRepeatedCharater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/FirstNonRepeatedCharater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/FirstRepeatedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/FirstRepeatedCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupByDept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupByDept.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupByFirstCharacterAndCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupByFirstCharacterAndCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupingOnMiddleCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupingOnMiddleCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/HighestLengthWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/HighestLengthWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ListContainsPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ListContainsPrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ListOfListAsSingleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/ListOfListAsSingleList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MergeTwoStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MergeTwoStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MoveZerosToBegining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MoveZerosToBegining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MultiplyArrayOfIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MultiplyArrayOfIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MultiplyFirstLastAnsSoOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/MultiplyFirstLastAnsSoOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/OccuranceOfEachCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/OccuranceOfEachCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/RemoveAllNonIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/RemoveAllNonIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/RemoveDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SalaryGreaterThanTwentyThousand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SalaryGreaterThanTwentyThousand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SumOfAllNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SumOfAllNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupNumbersByRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/GroupNumbersByRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/OccuranceOfEachWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/OccuranceOfEachWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/StartsWithA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/StartsWithA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SumOfUniqueElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsInterviewQuestions/SumOfUniqueElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringInterviewQuestions/CountVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/CountVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringInterviewQuestions/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/LongestSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringInterviewQuestions/RemoveAllSpecialCharaters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/RemoveAllSpecialCharaters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringInterviewQuestions/RemoveAllWhiteSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/RemoveAllWhiteSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringInterviewQuestions/ReturnLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/ReturnLongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringInterviewQuestions/ReverseEachWordInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringInterviewQuestions/ReverseEachWordInString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,151 +76,156 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnagramChecker.executor": "Run",
-    "Application.ArrangeDoctorsBasedOnFirstAndLastName.executor": "Run",
-    "Application.AvgOfAllNumbers.executor": "Run",
-    "Application.CharacterWithMaxFrequency.executor": "Run",
-    "Application.CompareTwoArrays.executor": "Run",
-    "Application.ContainsDuplicate_217.executor": "Run",
-    "Application.ContainsVowelsOrNot.executor": "Run",
-    "Application.ConvertListToMap.executor": "Run",
-    "Application.ConvertLoSToMapOfStringAndItsLength.executor": "Run",
-    "Application.ConvertNumbersToSquares.executor": "Run",
-    "Application.ConvertToUpperCase.executor": "Run",
-    "Application.ConvertToUpperCaseAndConcatenate.executor": "Run",
-    "Application.CountConsonantsUsingStreams.executor": "Run",
-    "Application.CountSubString.executor": "Run",
-    "Application.CountVowels.executor": "Run",
-    "Application.CountVowelsUsingStreams.executor": "Run",
-    "Application.DeliveryRouteOptimization.executor": "Run",
-    "Application.DemoComparableAndComparator.executor": "Run",
-    "Application.DepartmentWiseAverageSalary.executor": "Run",
-    "Application.DepartmentWithMaximumTeachers.executor": "Run",
-    "Application.DesignPattern.AbstractFactory.Main.executor": "Debug",
-    "Application.DesignPattern.Builder.Main.executor": "Run",
-    "Application.DesignPattern.Factory.Main.executor": "Run",
-    "Application.DesignPattern.Main.executor": "Run",
-    "Application.DistinctNumberStartingWithOneInDescOrder.executor": "Run",
-    "Application.DistinctValuesOrNot.executor": "Run",
-    "Application.DivideIntoEvenAndOdd.executor": "Run",
-    "Application.EmpCount.executor": "Run",
-    "Application.Employee.executor": "Run",
-    "Application.FetchEmployees.executor": "Run",
-    "Application.FibonacciSeries.executor": "Run",
-    "Application.FilterByCity.executor": "Run",
-    "Application.FindDiffBetTwoNumbers.executor": "Run",
-    "Application.FindDiffOfTwoClass.executor": "Run",
-    "Application.FindDuplicateElements.executor": "Run",
-    "Application.FindMissingNumber.executor": "Run",
-    "Application.FindStringLength.executor": "Run",
-    "Application.FirstNonRepeatedCharater.executor": "Run",
-    "Application.FirstNonRepeating.executor": "Run",
-    "Application.FirstNonRepeatingCharaterUsingMap.executor": "Run",
-    "Application.FirstNotRepeatedWithoutCollection.executor": "Run",
-    "Application.FirstRepeatedCharacter.executor": "Run",
-    "Application.GroupByDept.executor": "Run",
-    "Application.GroupByFirstCharacterAndCount.executor": "Run",
-    "Application.GroupNumbersByRange.executor": "Run",
-    "Application.GroupingOnMiddleCharacter.executor": "Run",
-    "Application.HighestLengthWord.executor": "Run",
-    "Application.IntersectionOfTwoLists.executor": "Run",
-    "Application.IsEmptyAndIsBlankDemo.executor": "Run",
-    "Application.LengthOfLastWord.executor": "Run",
-    "Application.ListOfListAsSingleList.executor": "Run",
-    "Application.ListWithOnlyIntegers.executor": "Run",
-    "Application.LongestConsecutiveElementsSequence.executor": "Run",
-    "Application.LongestSubstring.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MergeTwoSortedLists.executor": "Run",
-    "Application.MergeTwoStreams.executor": "Run",
-    "Application.MostRepeatedWord.executor": "Run",
-    "Application.MoveZerosToBegining.executor": "Run",
-    "Application.MultiThreading.Runnable.ThreadDemo.executor": "Run",
-    "Application.MultipleParameter.WithLE.executor": "Run",
-    "Application.MultiplyAlternateNumbers.executor": "Run",
-    "Application.MultiplyArrayOfIntegers.executor": "Run",
-    "Application.MultiplyFirstLastAnsSoOn.executor": "Run",
-    "Application.MyIntrfImpl.executor": "Run",
-    "Application.MyQueue.executor": "Run",
-    "Application.MyStack.executor": "Run",
-    "Application.OccouranceOfDomain.executor": "Run",
-    "Application.OccouranceOfEachCharater.executor": "Run",
-    "Application.OccuranceOfEachCharacter.executor": "Run",
-    "Application.OccuranceOfEachWord.executor": "Run",
-    "Application.OutImmutableTest.executor": "Run",
-    "Application.OverloadingExample.executor": "Run",
-    "Application.OverridingExample.executor": "Run",
-    "Application.PairAnagrams.executor": "Run",
-    "Application.PrimeCheck.executor": "Run",
-    "Application.PrintMiddleCharacterOfAString.executor": "Run",
-    "Application.ProductOfFirstTwoElement.executor": "Run",
-    "Application.Project.executor": "Run",
-    "Application.ReadableFile.executor": "Run",
-    "Application.RemoveAllNonIntegers.executor": "Run",
-    "Application.RemoveAllSpecialCharaters.executor": "Run",
-    "Application.RemoveAllWhiteSpaces.executor": "Run",
-    "Application.RemoveDuplicate.executor": "Run",
-    "Application.RemoveDuplicateCharaters.executor": "Run",
-    "Application.ReturnLongestSubstring.executor": "Run",
-    "Application.ReuseStreams.executor": "Run",
-    "Application.ReverseAString.executor": "Run",
-    "Application.ReverseEachWordInString.executor": "Run",
-    "Application.ReverseInteger.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.SalaryGreaterThanTwentyThousand.executor": "Run",
-    "Application.SecondMaxInAnArray.executor": "Run",
-    "Application.SecondMaximumInAnArray.executor": "Run",
-    "Application.SecondMinInAnArray.executor": "Run",
-    "Application.SecondMinimunInAnArray.executor": "Run",
-    "Application.SerializeDemo.executor": "Run",
-    "Application.SolidPrinciples.LSP.BadCode.Main.executor": "Run",
-    "Application.SortInAsceOrDesc.executor": "Run",
-    "Application.SortListOfStringInAlphabeticOrder.executor": "Run",
-    "Application.SortStringCharacters.executor": "Run",
-    "Application.StartingWithOne.executor": "Run",
-    "Application.StartsWithA.executor": "Run",
-    "Application.StreamsInterviewQuestions.FirstRepeatedCharacter.executor": "Run",
-    "Application.StringLengthFinder.executor": "Run",
-    "Application.StringsWithOnlyDigits.executor": "Run",
-    "Application.SumOfAllElementsInAList.executor": "Run",
-    "Application.SumOfAllNumbers.executor": "Run",
-    "Application.SumOfUniqueElements.executor": "Run",
-    "Application.Swap2Numbers.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.ThreadDemo.executor": "Run",
-    "Application.ThreeSum.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.ValidAnagram.executor": "Run",
-    "Application.WaveArrangement.executor": "Run",
-    "Application.WithLE (1).executor": "Run",
-    "Application.WithLE.executor": "Run",
-    "Application.WithoutLE.executor": "Run",
-    "Application.WordWithSpecifiedNumberOfVowels.executor": "Run",
-    "Application.fiTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/CodeDecode",
-    "onboarding.tips.debug.path": "C:/Users/ritur/Desktop/Java8Features/Java8/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnagramChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrangeDoctorsBasedOnFirstAndLastName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AvgOfAllNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BestTimeToBuyAndSellStock2_246.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacterWithMaxFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareTwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicate_217.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsVowelsOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertListToMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertLoSToMapOfStringAndItsLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertNumbersToSquares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertToUpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertToUpperCaseAndConcatenate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountConsonantsUsingStreams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountSubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountVowelsUsingStreams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeliveryRouteOptimization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoComparableAndComparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DepartmentWiseAverageSalary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DepartmentWithMaximumTeachers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesignPattern.AbstractFactory.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DesignPattern.Builder.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesignPattern.Factory.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesignPattern.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistinctNumberStartingWithOneInDescOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistinctValuesOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivideIntoEvenAndOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmpCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FetchEmployees.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FilterByCity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDiffBetTwoNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDiffOfTwoClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicateElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindStringLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatedCharater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingCharaterUsingMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNotRepeatedWithoutCollection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatedCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams_49.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupByDept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupByFirstCharacterAndCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupNumbersByRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupingOnMiddleCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HighestLengthWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntersectionOfTwoLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsEmptyAndIsBlankDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthOfLastWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListOfListAsSingleList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListWithOnlyIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestConsecutiveElementsSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoSortedLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoStreams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MostRepeatedWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZerosToBegining.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading.Runnable.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultipleParameter.WithLE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplyAlternateNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplyArrayOfIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplyFirstLastAnsSoOn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyDeque.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyIntrfImpl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccouranceOfDomain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccouranceOfEachCharater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccuranceOfEachCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccuranceOfEachWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OutImmutableTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverloadingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverridingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PairAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintMiddleCharacterOfAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfFirstTwoElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Project.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadableFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveAllNonIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveAllSpecialCharaters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveAllWhiteSpaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicateCharaters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReturnLongestSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReuseStreams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseEachWordInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SalaryGreaterThanTwentyThousand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondMaxInAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondMaximumInAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondMinInAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondMinimunInAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerializeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SolidPrinciples.LSP.BadCode.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortInAsceOrDesc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortListOfStringInAlphabeticOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortStringCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StartingWithOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StartsWithA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamsInterviewQuestions.FirstRepeatedCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringLengthFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringsWithOnlyDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfAllElementsInAList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfAllNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfUniqueElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap2Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaveArrangement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WithLE (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.WithLE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WithoutLE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordWithSpecifiedNumberOfVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fiTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeDecode&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ritur/Desktop/Java8Features/Java8/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Java17" />
       <recent name="StreamsInterviewQuestions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidAnagram">
-    <configuration name="ContainsDuplicate_217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.HashTable.ContainsDuplicate_217" />
+  <component name="RunManager" selected="Application.DivideIntoEvenAndOdd">
+    <configuration name="CharacterWithMaxFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.CharacterWithMaxFrequency" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA.HashTable.*" />
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutiveElementsSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.HashTable.LongestConsecutiveElementsSequence" />
+    <configuration name="CountSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.CountSubString" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA.HashTable.*" />
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.HashTable.ThreeSum" />
+    <configuration name="DivideIntoEvenAndOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.DivideIntoEvenAndOdd" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA.HashTable.*" />
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.HashTable.TwoSum" />
+    <configuration name="GroupNumbersByRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsInterviewQuestions.GroupNumbersByRange" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA.HashTable.*" />
+          <option name="PATTERN" value="StreamsInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.HashTable.ValidAnagram" />
+    <configuration name="ReverseEachWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringInterviewQuestions.ReverseEachWordInString" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA.HashTable.*" />
+          <option name="PATTERN" value="StringInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidAnagram" />
-        <item itemvalue="Application.ContainsDuplicate_217" />
-        <item itemvalue="Application.LongestConsecutiveElementsSequence" />
-        <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.DivideIntoEvenAndOdd" />
+        <item itemvalue="Application.CountSubString" />
+        <item itemvalue="Application.CharacterWithMaxFrequency" />
+        <item itemvalue="Application.ReverseEachWordInString" />
+        <item itemvalue="Application.GroupNumbersByRange" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +376,31 @@
       <option name="project" value="LOCAL" />
       <updated>1755057971231</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Testing">
+      <option name="closed" value="true" />
+      <created>1756034769152</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756034769152</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Testing">
+      <option name="closed" value="true" />
+      <created>1756034792416</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756034792416</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Testing">
+      <option name="closed" value="true" />
+      <created>1765895161721</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765895161721</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -406,7 +408,8 @@
     <MESSAGE value="ImportantOnes" />
     <MESSAGE value="Tried Again" />
     <MESSAGE value="Design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design Pattern" />
+    <MESSAGE value="Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
